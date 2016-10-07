@@ -2,7 +2,7 @@
 
 <img src="comfortzone.jpeg"/>
 
-A Dwarf never stop learning, and this is the space for our team member research/discuss about hard things. Hard things are? Just not easy things. We beleive continous learning and getting out of comfort zone are the way to be the best developer.
+A Dwarf never stop learning, and this is the space for our team members research/discuss about hard things. Hard things are? Just not easy things. We believe continous learning and getting out of comfort zone are the way to be the best developer.
 
 # Hard things list
 
@@ -18,12 +18,12 @@ A Dwarf never stop learning, and this is the space for our team member research/
 
 # Rules
 
-- Everyone commits the topic and do research in 02 weeks.
+- Everyone commits the topic and does research in 02 weeks.
 - Everything must be in depth.
  - What means? Deep understanding about what you research. For example:
   - Shoudn't: Go builds fast.
   - Recommended: Go builds so fast because its innovation in dependence analysic which is able to reorder the execution statements that makes fast compilation.
-- Translate paper is acceptable.
+- Translating paper is acceptable.
 
 # Punishment
 
