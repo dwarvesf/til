@@ -1,5 +1,4 @@
 # Dwarves Foundation hardcore place
-The place that dwarves become world-class
 
 <img src="comfortzone.jpeg"/>
 
